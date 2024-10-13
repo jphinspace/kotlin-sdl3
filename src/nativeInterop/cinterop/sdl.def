@@ -1,0 +1,4 @@
+headers = SDL3/SDL.h
+package = sdl
+compilerOpts = -I"C:\SDL3-3.1.3\x86_64-w64-mingw32\include"
+linkerOpts = -L"C:\SDL3-3.1.3\x86_64-w64-mingw32\lib" -lsdl3
