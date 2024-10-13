@@ -5,4 +5,4 @@ pluginManagement {
     }
 }
 
-rootProject.name = "kotlin-sdl3-experiment"
+rootProject.name = "kotlin-sdl3"
