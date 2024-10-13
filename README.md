@@ -1,4 +1,4 @@
-# kotlin-sdl3-experiment
+# kotlin-sdl3
 Kotlin Native project template with SDL 3
 
 Currently suports Windows
