@@ -1,7 +1,8 @@
 # kotlin-sdl3-experiment
-Kotlin Native project with SDL 3
+Kotlin Native project template with SDL 3
 
-Designed for Windows IntelliJ, will need some paths updated for Linux/Mac development.
+Currently suports Windows
+Mac/Linux support in development
 
 To run, SDL3.dll needs to be present in this kotlin-sdl3-experiment directory.
 
