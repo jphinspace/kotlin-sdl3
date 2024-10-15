@@ -10,6 +10,5 @@ Currently suports Windows
 
 Mac/Linux support in development
 
-To run, SDL3.dll needs to be present in the kotlin-sdl3 root directory. Also, SDL must be installed in C:\SDL3-3.1.3 
+SDL3 is required: https://wiki.libsdl.org/SDL3/Installation
 
-Building & running successfully as of 10/12/2024
